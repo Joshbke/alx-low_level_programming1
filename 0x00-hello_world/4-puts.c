@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- * ***
- *
- * ***
- *
- * comment
+ *  *  * main entry point
+ *   *  *
+ *    *  returm
  *      **/
 int main(void)
 
