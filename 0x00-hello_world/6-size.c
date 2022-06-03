@@ -3,13 +3,11 @@
 
 
 /**
- *
  *  * main - Prints the size of various types
  *
  *   * Return:0 if satisfied properly, non-zero otherwise
  *
  **/
-
 int main(void)
 
 {
